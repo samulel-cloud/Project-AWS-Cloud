@@ -8,7 +8,7 @@ Questo è il primo di una serie di progetti che farò su AWS. Questi progetti so
 
 - **Amazon S3** – per ospitare il sito web statico
 - **Amazon CloudFront** – per distribuire i contenuti in maniera sicura, veloce e scalabile
-- **HTML5 & CSS3** – per la creazione della pagina web
+- **HTML5 & CSS** – per la creazione della pagina web
 - **CloudFront Invalidation** – per aggiornare la cache
 
 ---
@@ -57,8 +57,8 @@ Per questo motivo, il sito non è più online, ma tutta l'esperienza è document
 
 | Passaggio | screenshot |
 | --------- | ---------- |
-| Sito statico ospitato su S3 (senza CloudFront) |
-| Sito distribuito con CloudFront (HTTPS attivo) |
+| Sito statico ospitato su S3 (senza CloudFront) | screenshots/screenshot-1.PNG |
+| Sito distribuito con CloudFront (HTTPS attivo) | screenshots/screenshot-2.PNG |
 
 ⚠️ Non è disponibile uno screenshot della configurazione interna di CloudFront perché il progetto è stato svolto in un ambiente sandbox temporaneo, e le risorse sono state eliminate alla fine della sessione.
 
